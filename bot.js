@@ -97,6 +97,6 @@ client.on('ready', () => {
 });
 
 
-     client.login('NTU5MzMzOTY3MDE5Mzc2Njgw.XUYQxQ.xDwA-c9Jc4MmOqbNSMSVSOT0B9s')
+     client.login('NTU5MzMzOTY3MDE5Mzc2Njgw.XUcjjg.T-C8m8QGfOVD3gJnKzLgN_Ddn8A')
 
      
